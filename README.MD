@@ -34,7 +34,7 @@ jupyter notebook
 ```
 
 ## Estrutura dos Arquivos: 
-No arquivo knn.ipynb está o notebook com às análises. Na pasta ./docs está o relatório técnico do projeto.
+No arquivo knn.ipynb está o notebook com às análises. Na pasta ./docs está o relatório técnico do projeto em PDF.
 
 ## Tecnologias Utilizadas: 
 - Juptyter Notebook
