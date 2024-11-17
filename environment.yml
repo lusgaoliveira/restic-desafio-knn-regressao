@@ -1,0 +1,8 @@
+name: meu_projeto
+dependencies:
+  - python=3.9
+  - jupyter
+  - pandas
+  - matplotlib
+  - seaborn
+  - scikit-learn
