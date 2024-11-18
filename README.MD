@@ -25,8 +25,10 @@ conda env create -f environment.yml
 
 4. Ative o ambiente:
 ```
-conda activate nome_do_seu_ambiente
+conda activate meu_projeto
 ```
+
+Você pode modificar o nome no environment.yml
 
 5. Inicie o Jupyter Notebook:
 ```
@@ -34,9 +36,10 @@ jupyter notebook
 ```
 
 ## Estrutura dos Arquivos: 
-No arquivo knn.ipynb está o notebook com às análises. Na pasta ./docs está o relatório técnico do projeto em PDF.
+No arquivo knn.ipynb está o notebook com o código fonte. Na pasta ./docs está o relatório técnico do projeto em PDF.
 
 ## Tecnologias Utilizadas: 
+- Anaconda
 - Juptyter Notebook
 - Pandas
 - Matplotlib
